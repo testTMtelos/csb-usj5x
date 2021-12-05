@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "https://testtmtelos.github.io/csb-usj5x/static/css/main.a11625c5.chunk.css",
+    "main.js": "https://testtmtelos.github.io/csb-usj5x/static/js/main.c4914a46.chunk.js",
+    "main.js.map": "https://testtmtelos.github.io/csb-usj5x/static/js/main.c4914a46.chunk.js.map",
+    "runtime~main.js": "https://testtmtelos.github.io/csb-usj5x/static/js/runtime~main.f8f64022.js",
+    "runtime~main.js.map": "https://testtmtelos.github.io/csb-usj5x/static/js/runtime~main.f8f64022.js.map",
+    "static/css/2.dfd58508.chunk.css": "https://testtmtelos.github.io/csb-usj5x/static/css/2.dfd58508.chunk.css",
+    "static/js/2.6eb054e0.chunk.js": "https://testtmtelos.github.io/csb-usj5x/static/js/2.6eb054e0.chunk.js",
+    "static/js/2.6eb054e0.chunk.js.map": "https://testtmtelos.github.io/csb-usj5x/static/js/2.6eb054e0.chunk.js.map",
+    "index.html": "https://testtmtelos.github.io/csb-usj5x/index.html",
+    "precache-manifest.b89c3b440b340c51f1f98babdcf74913.js": "https://testtmtelos.github.io/csb-usj5x/precache-manifest.b89c3b440b340c51f1f98babdcf74913.js",
+    "service-worker.js": "https://testtmtelos.github.io/csb-usj5x/service-worker.js",
+    "static/css/2.dfd58508.chunk.css.map": "https://testtmtelos.github.io/csb-usj5x/static/css/2.dfd58508.chunk.css.map",
+    "static/css/main.a11625c5.chunk.css.map": "https://testtmtelos.github.io/csb-usj5x/static/css/main.a11625c5.chunk.css.map",
+    "static/media/burger.png": "https://testtmtelos.github.io/csb-usj5x/static/media/burger.5b84f03b.png",
+    "static/media/ground.png": "https://testtmtelos.github.io/csb-usj5x/static/media/ground.65fd5b77.png",
+    "static/media/houses.png": "https://testtmtelos.github.io/csb-usj5x/static/media/houses.ec3df722.png",
+    "static/media/kitchen.png": "https://testtmtelos.github.io/csb-usj5x/static/media/kitchen.746323a4.png",
+    "static/media/plate.png": "https://testtmtelos.github.io/csb-usj5x/static/media/plate.5a4af241.png",
+    "static/media/room.png": "https://testtmtelos.github.io/csb-usj5x/static/media/room.e53fae92.png",
+    "static/media/signboard.png": "https://testtmtelos.github.io/csb-usj5x/static/media/signboard.436bbe5a.png",
+    "static/media/table.png": "https://testtmtelos.github.io/csb-usj5x/static/media/table.38382a52.png",
+    "static/media/winner.png": "https://testtmtelos.github.io/csb-usj5x/static/media/winner.aa4e1286.png",
+    "static/media/wooden-floor.png": "https://testtmtelos.github.io/csb-usj5x/static/media/wooden-floor.6a9cdb6b.png"
+  }
+}
